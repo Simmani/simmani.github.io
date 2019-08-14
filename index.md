@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to Simmani
 
-You can use the [editor on GitHub](https://github.com/Simmani/simmani.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This page helps you navigate Simmani repos:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* [simmani](https://github.com/Simmani/simmani.git): Simmani power modeling with simple examples.
+* [fpga-demo](https://github.com/Simmani/fpga-demo.git): FPGA demo with Hwacha running SqueezeNet on F1 instances.
+* (Advanced) [workloads](https://github.com/Simmani/workloads): workload generator for the FPGA demo.
 
-### Markdown
+### Publications
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Simmani/simmani.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Donggyu Kim, Jerry Zhao, Jonathan Bachrach, and Krste Asanović, **"Simmani: Runtime Power Modeling for Arbitrary RTL with Automatic Signal Selection"**, In proceedings of the 52nd IEEE/ACM International Symposium on Microarchitecture (MICRO'19), Columbus, OH, October 2019.
+* Donggyu Kim, **"FPGA-Accelerated Evaluation and Verification of RTL Designs"**, Ph.D. Thesis, University of California, Berkeley, May 2019.
